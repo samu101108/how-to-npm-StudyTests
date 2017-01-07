@@ -1,0 +1,22 @@
+{
+  "name": "tests",
+  "version": "1.0.1",
+  "description": "Test of how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Barbosa S. A.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samu101108/how-to-npm-StudyTests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samu101108/how-to-npm-StudyTests/issues"
+  },
+  "homepage": "https://github.com/samu101108/how-to-npm-StudyTests#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
